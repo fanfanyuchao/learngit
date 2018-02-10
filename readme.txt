@@ -1,2 +1,3 @@
 Git is a distributed version control system.
 Git is software distributed under th GPL.
+GIt has a mutable index called stage.
